@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641487953 source:d:\doc informatique\apprendre langage c\learning-c\condition\main.c
+	<stdio.h>
+	<stdlib.h>
+
