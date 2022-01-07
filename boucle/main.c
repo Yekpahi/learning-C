@@ -30,7 +30,7 @@ do {
 
 
 */
-
+// for boucle
 int compteur;
 
 for (compteur = 0; compteur < 10; compteur++) {
