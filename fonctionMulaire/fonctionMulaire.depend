@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641601368 source:d:\doc informatique\apprendre langage c\learning-c\fonctionmulaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aire.h"
+
+1641601263 d:\doc informatique\apprendre langage c\learning-c\fonctionmulaire\aire.h
+
